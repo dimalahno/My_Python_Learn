@@ -1,0 +1,4 @@
+shower
+clean
+Play chess
+Buy bread and butter
